@@ -29,13 +29,13 @@
     "enb": ">= 0.16.0 < 2.0.0"
   },
   "dependencies": {
-    "bem-xjst": "8.9.3",
+    "bem-xjst": "github:vithar/bem-xjst#vitaly.entities-set",
     "browserify": "13.3.0",
+    "enb-source-map": "1.12.0",
     "file-eval": "1.2.0",
     "lodash": "4.17.4",
     "vow": "0.4.15",
-    "vow-node": "0.3.0",
-    "enb-source-map": "1.12.0"
+    "vow-node": "0.3.0"
   },
   "devDependencies": {
     "istanbul": "^0.4.4",
