@@ -29,7 +29,7 @@
     "enb": ">= 0.16.0 < 2.0.0"
   },
   "dependencies": {
-    "bem-xjst": "github:vithar/bem-xjst#vitaly.entities-set",
+    "bem-xjst": "github:vithar/bem-xjst#vitaly.entities-set2",
     "browserify": "13.3.0",
     "enb-source-map": "1.12.0",
     "file-eval": "1.2.0",
